@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"name": "Study",
+			"path": "../../../../Study"
+		},
+		{
+			"name": "Bookstudy",
+			"path": "../../Bookstudy"
+		},
+		{
+			"name": "aaa",
+			"path": "../../aaa"
+		},
+		{
+			"name": "CPP_Src",
+			"path": ".."
+		},
+		{
+			"name": "parkseungjae",
+			"path": "../../parkseungjae"
+		},
+		{
+			"name": "School",
+			"path": "../../School"
+		}
+	]
+}
